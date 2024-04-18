@@ -7,9 +7,7 @@
   body{
     background-color: var(--botao-secundario);
     color: var(--cor-texto-principal);
-
-
-  }
+}
 
 
 *{
@@ -17,14 +15,11 @@
     padding: 0;
 }
 
-
-
 .principal{
     background-image:url("./bg.png");
     background-repeat: no-repeat;
     background-size: contain;
 }
-
 
 .container{
     height: 100vh;
@@ -35,4 +30,10 @@ h1{
     font-size: 60px;
     color: rgb(240, 171, 67);
 }
-
+.container-botao{
+    background-color: var(--botao-principal);
+    color: var(--botao-secundario);
+    padding: 1em;
+    border-radius: 5px;
+    text-decoration: none;
+}
