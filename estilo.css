@@ -2,7 +2,7 @@
     --cor-texto-principal: #ffff;
     --cor-texto-secundario: #c0c0c0;
     --botao-principal: #ffffff;
-    --botao-secundario:#ffffff;
+    --botao-secundario:#000000;
 }
   body{
     background-color: var(--botao-secundario);
