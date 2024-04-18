@@ -30,7 +30,7 @@ h1{
     font-size: 60px;
     color: rgb(240, 171, 67);
 }
-.container-botao{
+.container--botao{
     background-color: var(--botao-principal);
     color: var(--botao-secundario);
     padding: 1em;
